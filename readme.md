@@ -12,7 +12,7 @@ Below is a screenshot of my Command Prompt showing the Clover ASCII and Fastfetc
 
 ![CloverCmd screenshot](screenshot.png)
 
-If you want, I can commit this `README.md` for you or update it with additional screenshots or examples.
+
 ## Files in this repo
 - [Comand Prompt/settings.json](Comand%20Prompt/settings.json)
 - [fastfetch/ascii.txt](fastfetch/ascii.txt)
